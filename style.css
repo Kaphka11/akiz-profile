@@ -1,5 +1,6 @@
 body {
   background-color: skyblue;
+  font-family: Arial;
   text-align: center;
   border: solid 1px;
   color: white;
@@ -8,6 +9,7 @@ body {
 .profileBar {
   background-color: white;
   border-radius: 10px;
+  font-family: Arial;
   text-align: center;
   font-size: 20px;
   color: skyblue;
@@ -16,9 +18,11 @@ body {
 a {
   background-color: white;
   border-radius: 5px;
+  font-family: Arial;
   text-align: center;
   font-size: 18px;
   padding: 5px 7px 5px 7px;
+  color: skyblue;
 }
 
 img {
