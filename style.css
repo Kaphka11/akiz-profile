@@ -1,0 +1,27 @@
+body {
+  background-color: skyblue;
+  text-align: center;
+  border: solid 1px;
+  color: white;
+}
+
+.profileBar {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: skyblue;
+}
+
+a {
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+  padding: 5px 7px 5px 7px;
+}
+
+img {
+  border-radius: 100%;
+  padding: 10px 140px 0 140px;
+}
